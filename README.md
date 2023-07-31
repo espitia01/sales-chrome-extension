@@ -8,6 +8,7 @@ Saving important URLs through chrome folders or the browser is tedious. For this
   <li>Fetch website favicons to display alongside URL</li>
   <li>Allow users to change the URL to a name of their choosing</li>
   <li>Allow for the creation of folders</li>
+  <li>Allow for the exportation of URLs into a CSV file</li>
   <li>Leverage GPT and webscrapping to automate the grouping of URLs</li>
   
 </ul>
